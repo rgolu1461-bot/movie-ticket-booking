@@ -1,0 +1,5 @@
+{
+  "name": "TicketHub - Simple Movie Booking",
+  "description": "A beginner-friendly movie booking system with seat selection and price calculation.",
+  "requestFramePermissions": []
+}
